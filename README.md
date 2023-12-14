@@ -1,6 +1,6 @@
 ```sh
-	python3 -m venv venv
-	source venv/bin/activate
-	pip install -r requirements.txt
-	python main.py images/input descriptors --save_img --img_out=images/output
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python main.py images/input descriptors --save_img --img_out=images/output
 ```
